@@ -12,4 +12,4 @@ The script is used to clear local cache, such as localStorage / Web SQL Database
 
 ## Other
 
-1. It is forbidden to be used into the production environment.
+It is forbidden to be used into the production environment.
